@@ -6,7 +6,7 @@ from pdf2image import convert_from_path
 import os
 
 # Path of the pdf
-PDF_file = "/home/jerrine/Downloads/PDF Converter testing - Sheet1.pdf"
+PDF_file = 'PDF Converter testing - Sheet1.pdf'
 
 ''' 
 Part #1 : Converting PDF to images 
